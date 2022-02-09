@@ -1,0 +1,1 @@
+Summary: "The application does not switch from portrait to landscape orientation when mobile devise is flipped".
