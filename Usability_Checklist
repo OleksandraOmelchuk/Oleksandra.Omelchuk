@@ -1,0 +1,19 @@
+The content of the web page is correct, without grammatical and spelling errors.
+All fonts meet the requirements.
+All texts are properly aligned.
+All error messages are correct, without spelling or grammatical errors, and match the title of the window.
+Tooltips exist for all fields.
+All fields are properly aligned.
+Enough space is left between fields, columns, rows and error messages.
+All buttons should have a standard format and size.
+A link to the home page should be on every page of the site.
+Inactive fields should be gray.
+Check that there are no broken links and images on the site.
+Confirmation messages must be displayed for all update and delete operations.
+Test the site at different screen resolutions ((640x480, 600x800, etc.)
+Check that the user can use the system without irritation.
+Check that TAB works correctly.
+The scroll bar should only appear when it is required.
+If there are error messages when submitting the form, it should contain the information submitted by the user.
+The title should appear on every page.
+All fields (text, drop-down menus, radio buttons, etc.) and buttons must be keyboard accessible, and the user must be able to use the site using only the keyboard.
